@@ -1,0 +1,13 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+#fields:
+#  id:
+#    label: ID
+#    disabled: true
+#    hidden: true
+#  protect_export:
+#    label: Protect Export
+#    type: switch
+#    default: false
+#    comment: Turns Export password protection on and off.

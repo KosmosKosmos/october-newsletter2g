@@ -1,0 +1,16 @@
+{
+    "name": "kosmoskosmos/newsletter2go",
+    "description": "Newsletter2Go Plugin for OctoberCMS",
+    "type": "plugin",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/psr-http-message-bridge": "^0.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Kosmowicz",
+            "email": "andreas@kosmoskosmos.de"
+        }
+    ]
+}
